@@ -8,7 +8,7 @@
    ```bash
    npm install
    ```
-   For the Back-End in /backend
+   For the Back-End in backend/
    ```bash
    npm install
    ```
